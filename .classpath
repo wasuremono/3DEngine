@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/2013s2/Comp3421/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="D:/2013s2/Comp3421/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="D:/2013s2/Comp3421/jogl-all.jar"/>
+	<classpathentry kind="lib" path="D:/2013s2/Comp3421/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

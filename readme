@@ -1,0 +1,8 @@
+Extensions attemped
+Add an avatar and make the camera follow behind the avatar in a 3rd person view - Avatar.java
+Add a 'night' mode with low ambient lighting. Give the player a torch which shines in the direction they are facing. -Camera.java
+Make the sun move and change colour according to the time of day - Terrain.java
+Add rain using particle effects - ParticleSystem.java
+
+Howto: Toggle Torch mode: T
+	   Toggle Sun mode: S
